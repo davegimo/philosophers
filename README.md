@@ -1,10 +1,17 @@
-# Philosophers
+# Philosophers ranking
 
 ### Abstract
 
 An accademic project developed for the Web Information Retrieval class at Sapienza Università di Roma, Master Degree in Computer Engineering A.Y. 2017-18
 The goal of the project is to rank philosophers based on their influence using Google's PageRank algorithm.
 
+# Approach
+
+We retrieved information first from DBPedia, then from Wikipedia scraping its HTML.
+
+# Documentation - Presentation
+
+Soon available
 
 # Project Members - Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)  
