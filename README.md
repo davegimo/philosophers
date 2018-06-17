@@ -11,7 +11,9 @@ We retrieved information first from DBPedia, then from Wikipedia scraping its HT
 
 ### Documentation - Presentation
 
-Soon available
+Presentation soon available
+
+[You can check the relation here](https://github.com/davegimo/philosophers/blob/master/Final_relation.pdf)
 
 # Project Members - Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)  
