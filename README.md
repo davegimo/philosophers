@@ -2,7 +2,7 @@
 
 ### Abstract
 
-An accademic project developed for the Web Information Retrieval class at Sapienza Università di Roma, Master Degree in Computer Engineering A.Y. 2017-18
+An academic project developed for the Web Information Retrieval class at Sapienza Università di Roma, Master Degree in Computer Engineering A.Y. 2017-18
 The goal of the project is to rank philosophers based on their influence using Google's PageRank and HITS algorithm.
 
 ### Approach
